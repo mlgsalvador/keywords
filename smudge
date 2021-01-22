@@ -1,2 +1,2 @@
-ruby -e '$stdout.puts $stdin.read.gsub(/\t/, " ")'
-
+#!/bin/bash
+sed 's/linux/unix/g' readme.txt
