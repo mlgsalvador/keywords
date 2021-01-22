@@ -1,2 +1,1 @@
-#!/bin/bash
-sed 's/linux/unix/g' readme.txt
+sed 's/&unix&/&unix: 1123/g'
