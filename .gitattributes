@@ -1,2 +1,2 @@
-*.txt filter=tabs-to-spaces
-
+# .gitattributes file
+config.h filter=updateSecretToken
