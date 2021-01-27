@@ -1,7 +1,7 @@
 /*
-$commitAuthor
-$commitDate
-$commitId
-$commitMessage
+?commitAuthor
+?commitDate
+?commitId
+?commitMessage
 */
 SELECT * FROM
