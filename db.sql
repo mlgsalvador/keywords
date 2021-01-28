@@ -7,3 +7,4 @@ $commitMessage
 */
 SELECT * FROM
 DELETE
+UPDATE
