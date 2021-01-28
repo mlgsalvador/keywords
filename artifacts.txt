@@ -1,0 +1,10 @@
+.gitattributes
+clean
+config.h
+db.sql
+git.config.sample
+javascript.js
+readme.md
+readme.txt
+smudge
+spaces.tabs
