@@ -5,3 +5,4 @@ $commitId
 $commitMessage
 */
 SELECT * FROM
+DELETE
