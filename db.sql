@@ -8,3 +8,4 @@ $commitMessage
 SELECT * FROM
 DELETE
 UPDATE
+DELETE
